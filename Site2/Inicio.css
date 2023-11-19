@@ -1,0 +1,128 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/pexels-photo-129208.jpeg");
+  background-position: 100% 59.41%;
+  background-size: 140%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 893px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 136px 134px 0 auto;
+}
+
+.u-section-1 .u-image-1 {
+  width: 231px;
+  height: 300px;
+  margin: -10px 380px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: -15px 323px 0 471px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.25rem;
+  margin: 42px 283px 60px 432px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 736px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 233px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 346px;
+    margin-left: 371px;
+    margin-right: 223px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: -50px;
+    margin-left: 332px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 564px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 180px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -166px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 261px;
+    margin-right: 113px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 222px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 423px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 59px;
+    margin-left: 46px;
+    margin-right: 46px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: 309px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 171px;
+    margin-right: 23px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 115px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 266px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-top: -97px;
+    margin-right: 84px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: 109px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+  }
+}
